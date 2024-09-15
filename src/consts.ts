@@ -6,6 +6,6 @@ export const SITE: Site = {
 }
 
 export const HOME: Metadata = {
-  TITLE: "Ilya Tkachov - Product-Minded Software Engineer",
+  TITLE: "Product-Minded Software Engineer",
   DESCRIPTION: "You can learn all about me here :)",
 }
